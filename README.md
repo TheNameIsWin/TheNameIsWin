@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheNameIsWin](https://github.com/TheNameIsWin)
 
-- 📫 How to reach me **TheNameIsWin@example.com**
+- 📫 How to reach me **thenameiswin05@gmail.com**
 
 - ⚡ Fun fact **I love automating boring stuff**
 
