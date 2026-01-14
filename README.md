@@ -75,7 +75,7 @@ A Full-Stack Developer with strong DevOps experience from India 🇮🇳
 
 ### 📫 Connect With Me
 - GitHub: https://github.com/TheNameIsWin
-- Email: thenameiswin05@gmail.com
+- Email:
 
 ---
 
