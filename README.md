@@ -1,63 +1,82 @@
-<h1 align="center">Hi 👋, I'm TheNameIsWin</h1>
-<h3 align="center">A passionate DevOps Engineer from India </h3>
+Hi 👋, I'm TheNameIsWin  
+A Full-Stack Developer with strong DevOps experience from India 🇮🇳
+
+🚀 I build scalable web applications and automate everything around them.
 
 ---
 
-- 🌱 I’m currently learning **Advanced Kubernetes & AWS Architecture**
-
-- 👨‍💻 All of my projects are available at [https://github.com/TheNameIsWin](https://github.com/TheNameIsWin)
-
-- 📫 How to reach me **thenameiswin05@gmail.com**
-
-- ⚡ Fun fact **I love automating boring stuff**
+### 👨‍💻 About Me
+- 💻 Full-Stack Developer (Frontend + Backend)
+- 🧠 Strong in JavaScript, MERN Stack & System Design
+- ⚙️ DevOps experience with Docker, Kubernetes, CI/CD & AWS
+- 🌱 Currently improving **Advanced Backend & Cloud Architecture**
+- 🎯 Focused on writing clean, maintainable, production-ready code
 
 ---
 
-### 🛠 Technologies & Tools
+### 🛠 Tech Stack
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-A6ACAF?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</div>
+**Frontend**
+- React.js, TypeScript
+- HTML5, CSS3, Tailwind CSS
+- Ant Design / Material UI
+
+**Backend**
+- Node.js, Express.js
+- REST APIs
+- Authentication & Authorization (JWT)
+
+**Database**
+- MongoDB
+- Redis (Caching, Sessions)
+
+**DevOps & Cloud**
+- Docker & Docker Compose
+- Kubernetes
+- GitHub Actions (CI/CD)
+- AWS (EC2, S3, IAM, ECR)
+- Terraform (IaC)
+
+**Tools**
+- Git & GitHub
+- Postman
+- Linux
+- VS Code
 
 ---
 
 ### 📂 Featured Projects
 
-1. 🔥 **[DevOps Pipeline Setup](https://github.com/TheNameIsWin/devops-pipeline-setup)**  
-   Automated CI/CD pipeline with GitHub Actions and Docker deployment.
+#### 🔹 Full-Stack MERN Applications
+- Authentication system with role-based access
+- REST APIs with proper validation & error handling
+- Production-ready frontend architecture
 
-2. ☁ **[Terraform AWS Infra](https://github.com/TheNameIsWin/terraform-aws-infra)**  
-   Infrastructure as Code setup for AWS using Terraform modules.
+#### 🔹 DevOps CI/CD Pipeline
+- GitHub Actions pipeline
+- Docker image build & push
+- Kubernetes deployment automation
 
-3. 📦 **[Dockerized Microservices](https://github.com/TheNameIsWin/dockerized-microservices)**  
-   Microservices architecture using Docker and Kubernetes orchestration.
+#### 🔹 Dockerized Microservices
+- Node.js microservices
+- MongoDB & Redis integration
+- Containerized using Docker & orchestrated with Kubernetes
+
+#### 🔹 Terraform AWS Infrastructure
+- AWS infrastructure provisioning using Terraform
+- Secure IAM roles & networking
+- Reusable Terraform modules
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TheNameIsWin&show_icons=true&hide_title=true&hide_rank=true&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNameIsWin&layout=compact&theme=radical" />
-</div>
+---
+
+### 📫 Connect With Me
+- GitHub: https://github.com/TheNameIsWin
+- Email: thenameiswin05@gmail.com
 
 ---
 
-### 📫 Connect with me
-
-<div align="center">
-  <a href="https://linkedin.com/in/TheNameIsWin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:TheNameIsWin@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/TheNameIsWin" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-</div>
+⚡ Fun Fact: I love automating boring stuff and turning ideas into working products.
